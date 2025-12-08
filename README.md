@@ -153,21 +153,62 @@ const cuongDev: Developer = {
 
 <div align="center">
 
-<a href="https://github.com/chicuongdev2002/AI-Crypto-Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chicuongdev2002&repo=AI-Crypto-Bot&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&icon_color=f093fb" width="45%" />
-</a>
+> 💡 **Coming Soon**: Building amazing projects with AI, Blockchain, and Modern Web Technologies!
 
-<a href="https://github.com/chicuongdev2002/Blockchain-Analytics">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chicuongdev2002&repo=Blockchain-Analytics&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&icon_color=f093fb" width="45%" />
-</a>
-
-<a href="https://github.com/chicuongdev2002/NextJS-SaaS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chicuongdev2002&repo=NextJS-SaaS&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&icon_color=f093fb" width="45%" />
-</a>
-
-<a href="https://github.com/chicuongdev2002/Smart-Contracts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chicuongdev2002&repo=Smart-Contracts&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&icon_color=f093fb" width="45%" />
-</a>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AI Crypto Trading Bot</h3>
+      <p>AI-powered cryptocurrency trading bot with real-time market analysis and sentiment detection</p>
+      <p><strong>Tech Stack:</strong></p>
+      <p>
+        <code>Python</code>
+        <code>OpenAI</code>
+        <code>Web3.js</code>
+        <code>TensorFlow</code>
+      </p>
+      <p><em>⚡ Status: In Development</em></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Blockchain Analytics Platform</h3>
+      <p>Real-time blockchain data visualization and on-chain analytics dashboard</p>
+      <p><strong>Tech Stack:</strong></p>
+      <p>
+        <code>React</code>
+        <code>Node.js</code>
+        <code>Supabase</code>
+        <code>Ethers.js</code>
+      </p>
+      <p><em>⚡ Status: Planning</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ NextJS SaaS Boilerplate</h3>
+      <p>Production-ready SaaS starter kit with authentication and payment integration</p>
+      <p><strong>Tech Stack:</strong></p>
+      <p>
+        <code>Next.js</code>
+        <code>TypeScript</code>
+        <code>Supabase</code>
+        <code>Stripe</code>
+      </p>
+      <p><em>⚡ Status: Upcoming</em></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔐 Smart Contract Library</h3>
+      <p>Collection of secure and audited smart contracts for DeFi applications</p>
+      <p><strong>Tech Stack:</strong></p>
+      <p>
+        <code>Solidity</code>
+        <code>Hardhat</code>
+        <code>OpenZeppelin</code>
+        <code>Ethers.js</code>
+      </p>
+      <p><em>⚡ Status: Research Phase</em></p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
