@@ -79,13 +79,13 @@ const cuongDev = {
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chicuongdev2002&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chicuongdev2002&theme=radical&hide_border=true&background=0D1117&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=FFFFFF" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chicuongdev2002&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=FFFFFF" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chicuongdev2002&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF" width="48%" />
 </p>
 
 ---
@@ -97,7 +97,7 @@ const cuongDev = {
     <td width="50%">
       <h3 align="center">🤖 AI Crypto Trading Bot</h3>
       <p align="center">
-        <a href="https://github.com/YOUR_USERNAME/crypto-bot" target="_blank">
+        <a href="https://github.com/chicuongdev2002/crypto-bot" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=crypto-bot&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" />
         </a>
       </p>
@@ -109,7 +109,7 @@ const cuongDev = {
     <td width="50%">
       <h3 align="center">📊 On-Chain Analytics Dashboard</h3>
       <p align="center">
-        <a href="https://github.com/YOUR_USERNAME/onchain-analytics" target="_blank">
+        <a href="https://github.com/chicuongdev2002/onchain-analytics" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=onchain-analytics&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" />
         </a>
       </p>
@@ -123,7 +123,7 @@ const cuongDev = {
     <td width="50%">
       <h3 align="center">⚡ Performance Optimizer</h3>
       <p align="center">
-        <a href="https://github.com/YOUR_USERNAME/perf-optimizer" target="_blank">
+        <a href="https://github.com/chicuongdev2002/perf-optimizer" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=perf-optimizer&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" />
         </a>
       </p>
@@ -135,7 +135,7 @@ const cuongDev = {
     <td width="50%">
       <h3 align="center">🔐 Smart Contract Suite</h3>
       <p align="center">
-        <a href="https://github.com/YOUR_USERNAME/smart-contracts" target="_blank">
+        <a href="https://github.com/chicuongdev2002/smart-contracts" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=smart-contracts&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" />
         </a>
       </p>
