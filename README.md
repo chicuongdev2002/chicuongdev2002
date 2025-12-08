@@ -1,7 +1,9 @@
-<!-- Space Banner -->
+<!-- Space Banner with Stars -->
 <div align="center">
   
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=CUONG%20DEV&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20AI%20Engineer%20%7C%20Blockchain%20Expert&descAlignY=55&descAlign=50)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
@@ -9,6 +11,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Building+the+Future+with+AI+%26+Blockchain+%F0%9F%9A%80;Let's+Create+Something+Amazing+Together+%E2%9C%A8" alt="Typing SVG" />
 </p>
+
+<!-- Shooting Star Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <!-- Profile Views & Social -->
 <p align="center">
@@ -19,8 +24,11 @@
 
 ---
 
+<!-- Meteor Shower Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 <!-- About Me with Cosmic Design -->
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ## 🚀 About Me
 
@@ -59,6 +67,9 @@ const cuongDev: Developer = {
 <br clear="right"/>
 
 ---
+
+<!-- Space Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## 🛠️ Tech Universe
 
@@ -105,6 +116,9 @@ const cuongDev: Developer = {
 
 ---
 
+<!-- Cosmic Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## 📊 Cosmic GitHub Stats
 
 <div align="center">
@@ -133,6 +147,9 @@ const cuongDev: Developer = {
 
 ---
 
+<!-- Shooting Stars -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -140,6 +157,9 @@ const cuongDev: Developer = {
 </p>
 
 ---
+
+<!-- Galaxy Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🐍 Contribution Snake
 
@@ -150,6 +170,9 @@ const cuongDev: Developer = {
 </picture>
 
 ---
+
+<!-- Meteor Shower -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## 🌟 Featured Projects
 
@@ -216,6 +239,9 @@ const cuongDev: Developer = {
 
 ---
 
+<!-- Space Particles -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## 🎯 Current Focus
 
 <table align="center">
@@ -249,6 +275,9 @@ const cuongDev: Developer = {
 
 ---
 
+<!-- Shooting Stars Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 ## 📫 Connect With Me
 
 <p align="center">
@@ -273,6 +302,9 @@ const cuongDev: Developer = {
 </p>
 
 ---
+
+<!-- Cosmic Footer -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 💻 Weekly Coding Stats
 
