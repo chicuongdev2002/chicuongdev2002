@@ -1,251 +1,457 @@
-<!-- Banner Hacker -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f0&height=140&section=header&text=CuongDev%20%7C%20Hacker%20Mode&fontColor=00FF9C&fontSize=35&animation=fadeIn" />
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CuongDev | GitHub Profile Dashboard</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
-<!-- Typing Title -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Fullstack+Developer;AI+%2F+Crypto+%2F+Automation;Blockchain+%26+Smart+Contracts;Dark+Neon+Hacker+Style;Welcome+to+my+digital+space+...;Building+the+Future+%F0%9F%9A%80" />
-</p>
+        body {
+            font-family: 'Fira Code', 'Courier New', monospace;
+            background: linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 100%);
+            color: #00ff9c;
+            min-height: 100vh;
+            padding: 20px;
+            overflow-x: hidden;
+        }
 
----
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
 
-## 🧠 About Me
+        .header {
+            text-align: center;
+            padding: 40px 20px;
+            background: linear-gradient(90deg, #000000 0%, #0f0f0f 50%, #000000 100%);
+            border: 2px solid #00ff9c;
+            border-radius: 20px;
+            margin-bottom: 40px;
+            box-shadow: 0 0 40px rgba(0, 255, 156, 0.3);
+            animation: glow 2s ease-in-out infinite alternate;
+        }
 
-```javascript
-const cuongDev = {
-    role: "Fullstack Developer & AI Engineer",
-    location: "Ho Chi Minh City, Vietnam 🇻🇳",
-    current_focus: ["AI Agents", "Crypto Analytics", "System Design"],
-    tech_stack: {
-        frontend: ["React", "Next.js", "TailwindCSS", "TypeScript"],
-        backend: ["Node.js", "Supabase", "PostgreSQL", "Redis"],
-        ai_ml: ["LangChain", "OpenAI", "Claude API", "Vector DB"],
-        blockchain: ["Web3.js", "Ethers.js", "Solidity", "On-chain Analytics"],
-        devops: ["Docker", "CI/CD", "Supabase Edge Functions", "AWS"]
-    },
-    currently_building: [
-        "🤖 AI Crypto Chatbot with real-time market analysis",
-        "📊 On-chain analytics dashboard",
-        "⚡ High-performance automation systems"
-    ],
-    learning: ["System Design", "AI Agents", "Advanced Blockchain"],
-    hobbies: ["Hacking", "Crypto Trading", "Open Source"]
-};
-```
+        @keyframes glow {
+            from {
+                box-shadow: 0 0 20px rgba(0, 255, 156, 0.2);
+            }
+            to {
+                box-shadow: 0 0 40px rgba(0, 255, 156, 0.5);
+            }
+        }
 
----
+        .header h1 {
+            font-size: 3em;
+            text-shadow: 0 0 20px #00ff9c;
+            margin-bottom: 10px;
+            animation: pulse 2s ease-in-out infinite;
+        }
 
-## 🔥 Tech Stack & Tools
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.7; }
+        }
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,tailwind,postgres,supabase,redis,docker,aws,python,solidity,git,github,vscode,figma&perline=8" />
-</p>
+        .header .tagline {
+            font-size: 1.2em;
+            color: #00dd88;
+            margin-top: 10px;
+        }
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=3776AB)
-![Solidity](https://img.shields.io/badge/-Solidity-000?style=for-the-badge&logo=solidity&logoColor=363636)
-![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+        .loading {
+            text-align: center;
+            padding: 50px;
+            font-size: 1.5em;
+            color: #00ff9c;
+        }
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
-![Redux](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=redux&logoColor=764ABC)
+        .spinner {
+            border: 4px solid rgba(0, 255, 156, 0.1);
+            border-top: 4px solid #00ff9c;
+            border-radius: 50%;
+            width: 60px;
+            height: 60px;
+            animation: spin 1s linear infinite;
+            margin: 20px auto;
+        }
 
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-000?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Redis](https://img.shields.io/badge/-Redis-000?style=for-the-badge&logo=redis&logoColor=DC382D)
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
 
-### 🤖 AI & Blockchain
-![OpenAI](https://img.shields.io/badge/-OpenAI-000?style=for-the-badge&logo=openai&logoColor=412991)
-![LangChain](https://img.shields.io/badge/-LangChain-000?style=for-the-badge&logo=chainlink&logoColor=375BD2)
-![Web3.js](https://img.shields.io/badge/-Web3.js-000?style=for-the-badge&logo=web3.js&logoColor=F16822)
-![Ethers.js](https://img.shields.io/badge/-Ethers.js-000?style=for-the-badge&logo=ethereum&logoColor=3C3C3D)
+        .profile-section {
+            display: grid;
+            grid-template-columns: 350px 1fr;
+            gap: 30px;
+            margin-bottom: 40px;
+        }
 
-### 🛠️ DevOps & Tools
-![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-000?style=for-the-badge&logo=github-actions&logoColor=2088FF)
-![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+        @media (max-width: 968px) {
+            .profile-section {
+                grid-template-columns: 1fr;
+            }
+        }
 
----
+        .profile-card {
+            background: linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 100%);
+            border: 2px solid #00ff9c;
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 0 30px rgba(0, 255, 156, 0.2);
+            text-align: center;
+        }
 
-## 📊 GitHub Statistics
+        .avatar {
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+            border: 4px solid #00ff9c;
+            margin: 0 auto 20px;
+            box-shadow: 0 0 30px rgba(0, 255, 156, 0.5);
+            object-fit: cover;
+        }
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chicuongdev2002&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chicuongdev2002&theme=radical&hide_border=true&background=0D1117&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" width="48%" />
-</p>
+        .profile-name {
+            font-size: 2em;
+            margin-bottom: 10px;
+            text-shadow: 0 0 10px #00ff9c;
+        }
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chicuongdev2002&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=FFFFFF" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chicuongdev2002&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF" width="48%" />
-</p>
+        .profile-bio {
+            color: #00dd88;
+            margin: 15px 0;
+            line-height: 1.6;
+        }
 
----
+        .profile-stats {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 15px;
+            margin-top: 20px;
+        }
 
-## 🚀 Featured Projects
+        .stat-box {
+            background: #0a0a0a;
+            padding: 15px;
+            border-radius: 10px;
+            border: 1px solid #00ff9c;
+            transition: all 0.3s;
+        }
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🤖 AI Crypto Trading Bot</h3>
-      <p align="center">
-        <a href="https://github.com/chicuongdev2002/crypto-bot" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=crypto-bot&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" />
-        </a>
-      </p>
-      <p align="center">
-        <strong>AI-powered trading bot with sentiment analysis</strong><br>
-        <code>Python</code> <code>OpenAI</code> <code>Web3</code>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📊 On-Chain Analytics Dashboard</h3>
-      <p align="center">
-        <a href="https://github.com/chicuongdev2002/onchain-analytics" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=onchain-analytics&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" />
-        </a>
-      </p>
-      <p align="center">
-        <strong>Real-time blockchain data visualization</strong><br>
-        <code>React</code> <code>Node.js</code> <code>Supabase</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">⚡ Performance Optimizer</h3>
-      <p align="center">
-        <a href="https://github.com/chicuongdev2002/perf-optimizer" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=perf-optimizer&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" />
-        </a>
-      </p>
-      <p align="center">
-        <strong>System optimization & monitoring tools</strong><br>
-        <code>TypeScript</code> <code>Redis</code> <code>Docker</code>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🔐 Smart Contract Suite</h3>
-      <p align="center">
-        <a href="https://github.com/chicuongdev2002/smart-contracts" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=smart-contracts&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" />
-        </a>
-      </p>
-      <p align="center">
-        <strong>Secure & audited smart contracts</strong><br>
-        <code>Solidity</code> <code>Hardhat</code> <code>OpenZeppelin</code>
-      </p>
-    </td>
-  </tr>
-</table>
+        .stat-box:hover {
+            background: #1a1a1a;
+            box-shadow: 0 0 20px rgba(0, 255, 156, 0.3);
+            transform: translateY(-5px);
+        }
 
----
+        .stat-number {
+            font-size: 2em;
+            font-weight: bold;
+            color: #00ff9c;
+        }
 
-## 📈 Contribution Graph
+        .stat-label {
+            font-size: 0.9em;
+            color: #00dd88;
+            margin-top: 5px;
+        }
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=radical" />
-</p>
+        .info-card {
+            background: linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 100%);
+            border: 2px solid #00ff9c;
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 0 30px rgba(0, 255, 156, 0.2);
+        }
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=radical" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=radical" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=radical" width="32%" />
-</p>
+        .info-card h2 {
+            font-size: 1.8em;
+            margin-bottom: 20px;
+            text-shadow: 0 0 10px #00ff9c;
+            border-bottom: 2px solid #00ff9c;
+            padding-bottom: 10px;
+        }
 
----
+        .info-item {
+            display: flex;
+            align-items: center;
+            margin: 15px 0;
+            padding: 10px;
+            background: #0a0a0a;
+            border-radius: 8px;
+            border: 1px solid #00ff9c33;
+        }
 
-## 🏆 GitHub Trophies
+        .info-item strong {
+            color: #00ff9c;
+            margin-right: 10px;
+            min-width: 120px;
+        }
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
-</p>
+        .repos-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 25px;
+            margin-top: 40px;
+        }
 
----
+        .repo-card {
+            background: linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 100%);
+            border: 2px solid #00ff9c;
+            border-radius: 15px;
+            padding: 25px;
+            transition: all 0.3s;
+            cursor: pointer;
+            box-shadow: 0 0 20px rgba(0, 255, 156, 0.1);
+        }
 
-## 💡 Current Focus
+        .repo-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 0 40px rgba(0, 255, 156, 0.4);
+            border-color: #00ffcc;
+        }
 
-```diff
-+ 🔨 Building AI-powered crypto analytics platform
-+ 📚 Deep diving into System Design patterns
-+ 🚀 Exploring AI Agents & LangChain ecosystem
-+ ⚡ Optimizing Supabase Edge Functions performance
-+ 🎯 Contributing to open-source blockchain projects
-```
+        .repo-name {
+            font-size: 1.5em;
+            color: #00ff9c;
+            margin-bottom: 10px;
+            text-shadow: 0 0 5px #00ff9c;
+        }
 
----
+        .repo-description {
+            color: #00dd88;
+            margin: 10px 0;
+            line-height: 1.5;
+        }
 
-## 📫 Connect With Me
+        .repo-stats {
+            display: flex;
+            gap: 20px;
+            margin-top: 15px;
+            font-size: 0.9em;
+        }
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=00FF9C" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FF9C" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=twitter&logoColor=00FF9C" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=00FF9C" />
-  </a>
-  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=telegram&logoColor=00FF9C" />
-  </a>
-</p>
+        .repo-stat {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            color: #00ff9c;
+        }
 
----
+        .language-tag {
+            display: inline-block;
+            background: #00ff9c22;
+            color: #00ff9c;
+            padding: 5px 15px;
+            border-radius: 20px;
+            font-size: 0.85em;
+            margin-top: 10px;
+            border: 1px solid #00ff9c55;
+        }
 
-## 💻 Coding Activity
+        .error {
+            background: #ff000022;
+            border: 2px solid #ff0000;
+            color: #ff6666;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+            margin: 20px 0;
+        }
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+        .section-title {
+            font-size: 2.5em;
+            text-align: center;
+            margin: 40px 0 30px;
+            text-shadow: 0 0 20px #00ff9c;
+            animation: pulse 2s ease-in-out infinite;
+        }
 
----
+        .btn {
+            background: linear-gradient(135deg, #00ff9c 0%, #00dd88 100%);
+            color: #000;
+            border: none;
+            padding: 12px 30px;
+            border-radius: 25px;
+            font-size: 1em;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s;
+            text-decoration: none;
+            display: inline-block;
+            margin: 10px 5px;
+        }
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0&height=100&section=footer" />
-</p>
+        .btn:hover {
+            transform: scale(1.1);
+            box-shadow: 0 0 30px rgba(0, 255, 156, 0.6);
+        }
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00FF9C&style=for-the-badge&label=PROFILE+VIEWS" />
-</p>
+        .links-section {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🔥 CUONGDEV | HACKER MODE 🔥</h1>
+            <p class="tagline">Fullstack Developer | AI Engineer | Blockchain Enthusiast</p>
+        </div>
 
-<p align="center">
-  <strong>💚 "Code is poetry written in logic" 💚</strong>
-</p>
+        <div id="loading" class="loading">
+            <div class="spinner"></div>
+            <p>Loading GitHub data...</p>
+        </div>
 
----
+        <div id="content" style="display: none;">
+            <div class="profile-section">
+                <div class="profile-card">
+                    <img id="avatar" class="avatar" src="" alt="Avatar">
+                    <h2 class="profile-name" id="name"></h2>
+                    <p id="username" style="color: #00dd88;"></p>
+                    <p class="profile-bio" id="bio"></p>
+                    <div class="profile-stats">
+                        <div class="stat-box">
+                            <div class="stat-number" id="repos">0</div>
+                            <div class="stat-label">Repositories</div>
+                        </div>
+                        <div class="stat-box">
+                            <div class="stat-number" id="followers">0</div>
+                            <div class="stat-label">Followers</div>
+                        </div>
+                        <div class="stat-box">
+                            <div class="stat-number" id="following">0</div>
+                            <div class="stat-label">Following</div>
+                        </div>
+                    </div>
+                    <div class="links-section">
+                        <a id="profileLink" href="#" target="_blank" class="btn">View GitHub Profile</a>
+                    </div>
+                </div>
 
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+                <div class="info-card">
+                    <h2>📍 Profile Information</h2>
+                    <div class="info-item">
+                        <strong>Location:</strong>
+                        <span id="location">-</span>
+                    </div>
+                    <div class="info-item">
+                        <strong>Company:</strong>
+                        <span id="company">-</span>
+                    </div>
+                    <div class="info-item">
+                        <strong>Blog:</strong>
+                        <span id="blog">-</span>
+                    </div>
+                    <div class="info-item">
+                        <strong>Email:</strong>
+                        <span id="email">-</span>
+                    </div>
+                    <div class="info-item">
+                        <strong>Twitter:</strong>
+                        <span id="twitter">-</span>
+                    </div>
+                    <div class="info-item">
+                        <strong>Created:</strong>
+                        <span id="created">-</span>
+                    </div>
+                    <div class="info-item">
+                        <strong>Updated:</strong>
+                        <span id="updated">-</span>
+                    </div>
+                </div>
+            </div>
 
----
+            <h2 class="section-title">🚀 Featured Repositories</h2>
+            <div id="repos" class="repos-grid"></div>
+        </div>
 
-<details>
-<summary><strong>⚙️ Setup Instructions</strong></summary>
+        <div id="error" class="error" style="display: none;"></div>
+    </div>
 
-### Replace these placeholders:
-1. `YOUR_USERNAME` - Your GitHub username
-2. `YOUR_LINKEDIN` - Your LinkedIn profile URL
-3. `YOUR_TWITTER` - Your Twitter handle
-4. `YOUR_TELEGRAM` - Your Telegram username
-5. `your.email@example.com` - Your email
-6. Update repository names in Featured Projects section
+    <script>
+        const username = 'chicuongdev2002';
 
-### Optional Integrations:
-- **WakaTime**: Add coding stats by setting up [WakaTime](https://github.com/anmol098/waka-readme-stats)
-- **Blog Posts**: Auto-update blog posts using [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
-- **Spotify**: Show currently playing using [spotify-github-profile](https://github.com/kittinan/spotify-github-profile)
+        async function fetchGitHubData() {
+            try {
+                // Fetch user profile
+                const userResponse = await fetch(`https://api.github.com/users/${username}`);
+                if (!userResponse.ok) throw new Error('Failed to fetch user data');
+                const userData = await userResponse.json();
 
-</details>
+                // Fetch repositories
+                const reposResponse = await fetch(`https://api.github.com/users/${username}/repos?sort=updated&per_page=12`);
+                if (!reposResponse.ok) throw new Error('Failed to fetch repositories');
+                const reposData = await reposResponse.json();
+
+                displayUserData(userData);
+                displayRepos(reposData);
+
+                document.getElementById('loading').style.display = 'none';
+                document.getElementById('content').style.display = 'block';
+            } catch (error) {
+                console.error('Error:', error);
+                document.getElementById('loading').style.display = 'none';
+                document.getElementById('error').style.display = 'block';
+                document.getElementById('error').textContent = `⚠️ Error: ${error.message}. Please check if the username is correct.`;
+            }
+        }
+
+        function displayUserData(user) {
+            document.getElementById('avatar').src = user.avatar_url;
+            document.getElementById('name').textContent = user.name || user.login;
+            document.getElementById('username').textContent = '@' + user.login;
+            document.getElementById('bio').textContent = user.bio || 'No bio available';
+            document.getElementById('repos').textContent = user.public_repos;
+            document.getElementById('followers').textContent = user.followers;
+            document.getElementById('following').textContent = user.following;
+            document.getElementById('location').textContent = user.location || 'Not specified';
+            document.getElementById('company').textContent = user.company || 'Not specified';
+            document.getElementById('blog').innerHTML = user.blog ? `<a href="${user.blog}" target="_blank" style="color: #00ff9c;">${user.blog}</a>` : 'Not specified';
+            document.getElementById('email').textContent = user.email || 'Not public';
+            document.getElementById('twitter').textContent = user.twitter_username ? '@' + user.twitter_username : 'Not specified';
+            document.getElementById('created').textContent = new Date(user.created_at).toLocaleDateString();
+            document.getElementById('updated').textContent = new Date(user.updated_at).toLocaleDateString();
+            document.getElementById('profileLink').href = user.html_url;
+        }
+
+        function displayRepos(repos) {
+            const reposContainer = document.getElementById('repos');
+            reposContainer.innerHTML = '';
+
+            repos.forEach(repo => {
+                const repoCard = document.createElement('div');
+                repoCard.className = 'repo-card';
+                repoCard.onclick = () => window.open(repo.html_url, '_blank');
+
+                repoCard.innerHTML = `
+                    <div class="repo-name">${repo.name}</div>
+                    <div class="repo-description">${repo.description || 'No description available'}</div>
+                    ${repo.language ? `<span class="language-tag">${repo.language}</span>` : ''}
+                    <div class="repo-stats">
+                        <div class="repo-stat">⭐ ${repo.stargazers_count}</div>
+                        <div class="repo-stat">🔱 ${repo.forks_count}</div>
+                        <div class="repo-stat">👁️ ${repo.watchers_count}</div>
+                    </div>
+                `;
+
+                reposContainer.appendChild(repoCard);
+            });
+        }
+
+        // Load data on page load
+        fetchGitHubData();
+    </script>
+</body>
+</html>
