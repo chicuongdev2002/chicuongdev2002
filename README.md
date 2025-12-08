@@ -10,6 +10,34 @@
 
 ---
 
+## 🎮 Interactive Visualizations
+
+<div align="center">
+
+### 🐍 Contribution Snake Animation
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chicuongdev2002/chicuongdev2002/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chicuongdev2002/chicuongdev2002/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chicuongdev2002/chicuongdev2002/output/github-contribution-grid-snake.svg">
+</picture>
+
+### 📊 Metrics Dashboard
+
+<img src="https://metrics.lecoq.io/chicuongdev2002?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&lines=1&people=1&activity=1&achievements=1&notable=1&discussions=1&followup=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&discussions.categories=true&discussions.categories.limit=0&followup.sections=repositories&followup.indepth=false&config.timezone=Asia%2FHo_Chi_Minh&config.twemoji=true&config.octicon=true&config.display=large" width="95%" />
+
+### 🏆 Achievement Showcase
+
+<img src="https://github-profile-trophy.vercel.app/?username=chicuongdev2002&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=3&column=6&title=Commits,Repositories,Stars,Followers,Issues,PullRequest" width="95%" />
+
+### 🌟 Star History
+
+<img src="https://api.star-history.com/svg?repos=chicuongdev2002/chicuongdev2002&type=Date&theme=dark" width="95%" />
+
+</div>
+
+---
+
 ## 🧠 About Me
 
 ```javascript
@@ -78,15 +106,36 @@ const cuongDev = {
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chicuongdev2002&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chicuongdev2002&theme=radical&hide_border=true&background=0D1117&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" width="48%" />
-</p>
+<div align="center">
+  
+### 🎯 Performance Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chicuongdev2002&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=FFFFFF" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chicuongdev2002&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF" width="48%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=chicuongdev2002&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF&include_all_commits=true&count_private=true&custom_title=⚡%20GitHub%20Stats" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chicuongdev2002&theme=radical&hide_border=true&background=0D1117&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=00FF9C&currStreakNum=FFFFFF&sideNums=FFFFFF" height="170" />
+
+### 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chicuongdev2002&custom_title=🔥%20Contribution%20Graph&bg_color=0D1117&color=00FF9C&line=00DD88&point=00FF9C&area=true&hide_border=true&area_color=00FF9C" width="95%" />
+
+### 💻 Language Distribution
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chicuongdev2002&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=FFFFFF&langs_count=8&custom_title=🎨%20Most%20Used%20Languages" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=chicuongdev2002&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=FFFFFF&custom_title=⏱️%20Weekly%20Coding%20Time&layout=compact" width="40%" />
+
+### 🎪 Detailed Analytics
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chicuongdev2002&theme=radical" width="95%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chicuongdev2002&theme=radical" width="30%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chicuongdev2002&theme=radical" width="30%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chicuongdev2002&theme=radical&utcOffset=7" width="30%" />
+
+### 📊 Additional Metrics
+
+<img src="https://github-readme-stats.vercel.app/api?username=chicuongdev2002&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF&hide=prs&custom_title=📦%20Repository%20Overview&hide_rank=true" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chicuongdev2002&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=FFFFFF&langs_count=10&hide=html,css&custom_title=⚙️%20Tech%20Stack%20Stats" width="45%" />
+
+</div>
 
 ---
 
@@ -130,15 +179,25 @@ const cuongDev = {
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chicuongdev2002&theme=radical" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chicuongdev2002&theme=radical" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chicuongdev2002&theme=radical" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chicuongdev2002&theme=radical" width="32%" />
-</p>
+### 🗓️ Yearly Contribution Heatmap
+
+<img src="https://ghchart.rshah.org/00FF9C/chicuongdev2002" width="95%" />
+
+### 🌊 3D Contribution Chart
+
+<img src="https://github-contribution-graph.ez4o.com/?username=chicuongdev2002&theme=github-dark&color=00FF9C&area=true&hide_border=true" width="95%" />
+
+### 🎭 Commit Pattern Analysis
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chicuongdev2002&theme=radical" width="95%" />
+
+### 📅 Commit Timeline
+
+<img src="https://ssr-contributions-svg.vercel.app/_/chicuongdev2002?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=2&animation=wave&animation_duration=3&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=30&dark=true" width="95%" />
+
+</div>
 
 ---
 
