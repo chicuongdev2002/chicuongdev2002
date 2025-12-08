@@ -1,201 +1,131 @@
-<!-- Banner Hacker -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f0&height=140&section=header&text=CuongDev%20%7C%20Hacker%20Mode&fontColor=00FF9C&fontSize=35&animation=fadeIn" />
-</p>
-
-<!-- Typing Title -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Fullstack+Developer;AI+%2F+Crypto+%2F+Automation;Blockchain+%26+Smart+Contracts;Dark+Neon+Hacker+Style;Welcome+to+my+digital+space+...;Building+the+Future+%F0%9F%9A%80" />
-</p>
-
----
-
-## 🎮 Interactive Visualizations
-
+<!-- Space Banner -->
 <div align="center">
-
-### 🐍 Contribution Snake Animation
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chicuongdev2002/chicuongdev2002/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chicuongdev2002/chicuongdev2002/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chicuongdev2002/chicuongdev2002/output/github-contribution-grid-snake.svg">
-</picture>
-
-### 📊 Metrics Dashboard
-
-<img src="https://metrics.lecoq.io/chicuongdev2002?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&lines=1&people=1&activity=1&achievements=1&notable=1&discussions=1&followup=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&discussions.categories=true&discussions.categories.limit=0&followup.sections=repositories&followup.indepth=false&config.timezone=Asia%2FHo_Chi_Minh&config.twemoji=true&config.octicon=true&config.display=large" width="95%" />
-
-### 🏆 Achievement Showcase
-
-<img src="https://github-profile-trophy.vercel.app/?username=chicuongdev2002&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=3&column=6&title=Commits,Repositories,Stars,Followers,Issues,PullRequest" width="95%" />
-
-### 🌟 Star History
-
-<img src="https://api.star-history.com/svg?repos=chicuongdev2002/chicuongdev2002&type=Date&theme=dark" width="95%" />
+  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=CUONG%20DEV&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20AI%20Engineer%20%7C%20Blockchain%20Expert&descAlignY=55&descAlign=50)
 
 </div>
 
+<!-- Animated Typing -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Building+the+Future+with+AI+%26+Blockchain+%F0%9F%9A%80;Let's+Create+Something+Amazing+Together+%E2%9C%A8" alt="Typing SVG" />
+</p>
+
+<!-- Profile Views & Social -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chicuongdev2002&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/chicuongdev2002?label=Followers&style=for-the-badge&color=764ba2" alt="followers" />
+  <img src="https://img.shields.io/github/stars/chicuongdev2002?label=Stars&style=for-the-badge&color=f093fb" alt="stars" />
+</p>
+
 ---
 
-## 🧠 About Me
+<!-- About Me with Cosmic Design -->
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-```javascript
-const cuongDev = {
-    role: "Fullstack Developer & AI Engineer",
-    location: "Ho Chi Minh City, Vietnam 🇻🇳",
-    current_focus: ["AI Agents", "Crypto Analytics", "System Design"],
-    tech_stack: {
-        frontend: ["React", "Next.js", "TailwindCSS", "TypeScript"],
-        backend: ["Node.js", "Supabase", "PostgreSQL", "Redis"],
-        ai_ml: ["LangChain", "OpenAI", "Claude API", "Vector DB"],
-        blockchain: ["Web3.js", "Ethers.js", "Solidity", "On-chain Analytics"],
-        devops: ["Docker", "CI/CD", "Supabase Edge Functions", "AWS"]
-    },
-    currently_building: [
-        "🤖 AI Crypto Chatbot with real-time market analysis",
-        "📊 On-chain analytics dashboard",
-        "⚡ High-performance automation systems"
-    ],
-    learning: ["System Design", "AI Agents", "Advanced Blockchain"],
-    hobbies: ["Hacking", "Crypto Trading", "Open Source"]
+## 🚀 About Me
+
+```typescript
+const cuongDev: Developer = {
+  name: "Chi Cuong",
+  role: "Fullstack Developer & AI Engineer",
+  location: "Ho Chi Minh City, Vietnam 🇻🇳",
+  
+  code: ["TypeScript", "Python", "Solidity", "JavaScript"],
+  
+  technologies: {
+    frontend: ["React", "Next.js", "TailwindCSS", "Vue.js"],
+    backend: ["Node.js", "Supabase", "PostgreSQL", "Redis"],
+    ai: ["LangChain", "OpenAI", "Claude", "TensorFlow"],
+    blockchain: ["Web3.js", "Ethers.js", "Hardhat", "Solidity"],
+    devOps: ["Docker", "AWS", "GitHub Actions", "Vercel"]
+  },
+  
+  currentProjects: [
+    "🤖 AI Crypto Trading Bot",
+    "📊 Blockchain Analytics Platform",
+    "⚡ High-Performance Automation Tools"
+  ],
+  
+  learning: ["System Design", "AI Agents", "Smart Contracts"],
+  
+  funFacts: [
+    "🌌 Love exploring new technologies",
+    "☕ Coffee addict & night coder",
+    "🎮 Gamer in free time"
+  ]
 };
 ```
 
+<br clear="right"/>
+
 ---
 
-## 🔥 Tech Stack & Tools
+## 🛠️ Tech Universe
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,tailwind,postgres,supabase,redis,docker,aws,python,solidity,git,github,vscode,figma&perline=8" />
+<div align="center">
+
+### 💻 Languages & Frameworks
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=3776AB)
-![Solidity](https://img.shields.io/badge/-Solidity-000?style=for-the-badge&logo=solidity&logoColor=363636)
-![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+### 🗄️ Databases & Tools
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
-![Redux](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=redux&logoColor=764ABC)
-
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-000?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Redis](https://img.shields.io/badge/-Redis-000?style=for-the-badge&logo=redis&logoColor=DC382D)
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
 ### 🤖 AI & Blockchain
-![OpenAI](https://img.shields.io/badge/-OpenAI-000?style=for-the-badge&logo=openai&logoColor=412991)
-![LangChain](https://img.shields.io/badge/-LangChain-000?style=for-the-badge&logo=chainlink&logoColor=375BD2)
-![Web3.js](https://img.shields.io/badge/-Web3.js-000?style=for-the-badge&logo=web3.js&logoColor=F16822)
-![Ethers.js](https://img.shields.io/badge/-Ethers.js-000?style=for-the-badge&logo=ethereum&logoColor=3C3C3D)
 
-### 🛠️ DevOps & Tools
-![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-000?style=for-the-badge&logo=github-actions&logoColor=2088FF)
-![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-### 🎯 Performance Metrics
-
-<img src="https://github-readme-stats.vercel.app/api?username=chicuongdev2002&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF&include_all_commits=true&count_private=true&custom_title=⚡%20GitHub%20Stats" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chicuongdev2002&theme=radical&hide_border=true&background=0D1117&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=00FF9C&currStreakNum=FFFFFF&sideNums=FFFFFF" height="170" />
-
-### 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chicuongdev2002&custom_title=🔥%20Contribution%20Graph&bg_color=0D1117&color=00FF9C&line=00DD88&point=00FF9C&area=true&hide_border=true&area_color=00FF9C" width="95%" />
-
-### 💻 Language Distribution
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chicuongdev2002&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=FFFFFF&langs_count=8&custom_title=🎨%20Most%20Used%20Languages" width="40%" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=chicuongdev2002&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=FFFFFF&custom_title=⏱️%20Weekly%20Coding%20Time&layout=compact" width="40%" />
-
-### 🎪 Detailed Analytics
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chicuongdev2002&theme=radical" width="95%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chicuongdev2002&theme=radical" width="30%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chicuongdev2002&theme=radical" width="30%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chicuongdev2002&theme=radical&utcOffset=7" width="30%" />
-
-### 📊 Additional Metrics
-
-<img src="https://github-readme-stats.vercel.app/api?username=chicuongdev2002&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF&hide=prs&custom_title=📦%20Repository%20Overview&hide_rank=true" width="45%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chicuongdev2002&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=FFFFFF&langs_count=10&hide=html,css&custom_title=⚙️%20Tech%20Stack%20Stats" width="45%" />
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" />
+</p>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 📊 Cosmic GitHub Stats
 
 <div align="center">
 
-### 🤖 AI Crypto Trading Bot
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=chicuongdev2002&repo=AI-Crypto-Bot&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF)](https://github.com/chicuongdev2002/AI-Crypto-Bot)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chicuongdev2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&icon_color=f093fb&text_color=c3e88d" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chicuongdev2002&theme=tokyonight&hide_border=true&background=1a1b27&ring=667eea&fire=f093fb&currStreakLabel=667eea" />
 
-**AI-powered trading bot with sentiment analysis**  
-`Python` `OpenAI` `Web3` `TensorFlow`
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chicuongdev2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&text_color=c3e88d&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=chicuongdev2002&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&text_color=c3e88d&layout=compact" />
 
----
+### 📈 Contribution Graph
 
-### 📊 Blockchain Analytics Dashboard
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=chicuongdev2002&repo=Blockchain-Analytics&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF)](https://github.com/chicuongdev2002/Blockchain-Analytics)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chicuongdev2002&custom_title=🌌%20Contribution%20Galaxy&bg_color=1a1b27&color=667eea&line=f093fb&point=ffffff&area=true&hide_border=true" width="100%" />
 
-**Real-time blockchain data visualization platform**  
-`React` `Node.js` `Supabase` `Web3.js`
+### 🎯 GitHub Metrics
 
----
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chicuongdev2002&theme=tokyonight" width="100%" />
 
-### ⚡ NextJS SaaS Boilerplate
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=chicuongdev2002&repo=NextJS-SaaS&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF)](https://github.com/chicuongdev2002/NextJS-SaaS)
-
-**Production-ready SaaS starter with authentication**  
-`Next.js` `TypeScript` `Supabase` `Stripe`
-
----
-
-### 🔐 Smart Contract Library
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=chicuongdev2002&repo=Smart-Contracts&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF)](https://github.com/chicuongdev2002/Smart-Contracts)
-
-**Secure & audited smart contracts collection**  
-`Solidity` `Hardhat` `OpenZeppelin` `Ethers.js`
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-### 🗓️ Yearly Contribution Heatmap
-
-<img src="https://ghchart.rshah.org/00FF9C/chicuongdev2002" width="95%" />
-
-### 🌊 3D Contribution Chart
-
-<img src="https://github-contribution-graph.ez4o.com/?username=chicuongdev2002&theme=github-dark&color=00FF9C&area=true&hide_border=true" width="95%" />
-
-### 🎭 Commit Pattern Analysis
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chicuongdev2002&theme=radical" width="95%" />
-
-### 📅 Commit Timeline
-
-<img src="https://ssr-contributions-svg.vercel.app/_/chicuongdev2002?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=2&animation=wave&animation_duration=3&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=30&dark=true" width="95%" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chicuongdev2002&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chicuongdev2002&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chicuongdev2002&theme=tokyonight&utcOffset=7" />
 
 </div>
 
@@ -204,106 +134,112 @@ const cuongDev = {
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chicuongdev2002&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=chicuongdev2002&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
 </p>
 
 ---
 
-## 💡 Current Focus
+## 🐍 Contribution Snake
 
-```diff
-+ 🔨 Building AI-powered crypto analytics platform
-+ 📚 Deep diving into System Design patterns
-+ 🚀 Exploring AI Agents & LangChain ecosystem
-+ ⚡ Optimizing Supabase Edge Functions performance
-+ 🎯 Contributing to open-source blockchain projects
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chicuongdev2002/chicuongdev2002/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chicuongdev2002/chicuongdev2002/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chicuongdev2002/chicuongdev2002/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/chicuongdev2002/AI-Crypto-Bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chicuongdev2002&repo=AI-Crypto-Bot&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&icon_color=f093fb" width="45%" />
+</a>
+
+<a href="https://github.com/chicuongdev2002/Blockchain-Analytics">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chicuongdev2002&repo=Blockchain-Analytics&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&icon_color=f093fb" width="45%" />
+</a>
+
+<a href="https://github.com/chicuongdev2002/NextJS-SaaS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chicuongdev2002&repo=NextJS-SaaS&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&icon_color=f093fb" width="45%" />
+</a>
+
+<a href="https://github.com/chicuongdev2002/Smart-Contracts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chicuongdev2002&repo=Smart-Contracts&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&icon_color=f093fb" width="45%" />
+</a>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://cdn-icons-png.flaticon.com/512/6461/6461819.png" width="80px" height="80px" />
+      <br><strong>AI Development</strong>
+      <br><sub>Building intelligent systems</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" width="80px" height="80px" />
+      <br><strong>Blockchain</strong>
+      <br><sub>Smart contracts & DApps</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="80px" height="80px" />
+      <br><strong>System Design</strong>
+      <br><sub>Scalable architectures</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn-icons-png.flaticon.com/512/2991/2991148.png" width="80px" height="80px" />
+      <br><strong>Open Source</strong>
+      <br><sub>Contributing to community</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/chicuongdev2002" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=00FF9C" />
+  <a href="https://github.com/chicuongdev2002">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/chicuongdev" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FF9C" />
+  <a href="https://linkedin.com/in/chicuongdev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/chicuongdev" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=twitter&logoColor=00FF9C" />
+  <a href="https://twitter.com/chicuongdev">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="mailto:chicuongdev2002@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=00FF9C" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://t.me/chicuongdev" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=telegram&logoColor=00FF9C" />
+  <a href="https://t.me/chicuongdev">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/chicuongdev">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 💻 Coding Activity
+## 💻 Weekly Coding Stats
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0&height=100&section=footer" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chicuongdev2002&color=00FF9C&style=for-the-badge&label=PROFILE+VIEWS" />
-</p>
+### 🌌 "In the vast universe of code, every bug is a new star to discover" 🌌
 
-<p align="center">
-  <strong>💚 "Code is poetry written in logic" 💚</strong>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer" width="100%" />
 
----
+**Made with 💜 by CuongDev**
 
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<details>
-<summary><strong>⚙️ Setup Instructions</strong></summary>
-
-<br>
-
-### 🎯 Quick Start
-
-1. **Create a new repository** named exactly: `chicuongdev2002` (same as your username)
-2. **Create a `README.md` file** and paste this content
-3. **Update your social links** in the "Connect With Me" section
-4. **Add real repository names** in the "Featured Projects" section
-
-### 🔧 Optional Integrations
-
-#### WakaTime Coding Stats
-Setup [WakaTime Stats](https://github.com/anmol098/waka-readme-stats) to show your coding activity:
-- Install WakaTime extension in VS Code
-- Add GitHub Action workflow
-- Stats will auto-update in `<!--START_SECTION:waka-->`
-
-#### Auto-Update Blog Posts
-Use [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow):
-- Add your blog RSS feed
-- Posts auto-update in `<!-- BLOG-POST-LIST:START -->`
-
-#### Spotify Currently Playing
-Add [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) widget
-
-### 📝 Customization Tips
-
-Replace these placeholders with your real info:
-- Social media links (LinkedIn, Twitter, Telegram)
-- Email address
-- Repository names in Featured Projects
-- Add your actual project descriptions
-
-</details>
+</div>
