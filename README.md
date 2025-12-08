@@ -109,11 +109,10 @@ const cuongDev: Developer = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chicuongdev2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&icon_color=f093fb&text_color=c3e88d" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chicuongdev2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&icon_color=f093fb&text_color=c3e88d&include_all_commits=true&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chicuongdev2002&theme=tokyonight&hide_border=true&background=1a1b27&ring=667eea&fire=f093fb&currStreakLabel=667eea" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chicuongdev2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&text_color=c3e88d&langs_count=8" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=chicuongdev2002&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&text_color=c3e88d&layout=compact" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chicuongdev2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&text_color=c3e88d&langs_count=10&hide=html,css" />
 
 ### 📈 Contribution Graph
 
@@ -126,6 +125,9 @@ const cuongDev: Developer = {
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chicuongdev2002&theme=tokyonight" />
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chicuongdev2002&theme=tokyonight" />
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chicuongdev2002&theme=tokyonight&utcOffset=7" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chicuongdev2002&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/commits?username=chicuongdev2002&theme=tokyonight" />
 
 </div>
 
@@ -219,24 +221,28 @@ const cuongDev: Developer = {
 <table align="center">
   <tr>
     <td align="center" width="25%">
-      <img src="https://cdn-icons-png.flaticon.com/512/6461/6461819.png" width="80px" height="80px" />
+      <br>
+      <h3>🤖</h3>
       <br><strong>AI Development</strong>
-      <br><sub>Building intelligent systems</sub>
+      <br><sub>Building intelligent systems with LangChain & OpenAI</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" width="80px" height="80px" />
+      <br>
+      <h3>⛓️</h3>
       <br><strong>Blockchain</strong>
-      <br><sub>Smart contracts & DApps</sub>
+      <br><sub>Smart contracts & DApps development</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="80px" height="80px" />
+      <br>
+      <h3>🏗️</h3>
       <br><strong>System Design</strong>
-      <br><sub>Scalable architectures</sub>
+      <br><sub>Building scalable architectures</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn-icons-png.flaticon.com/512/2991/2991148.png" width="80px" height="80px" />
+      <br>
+      <h3>🌟</h3>
       <br><strong>Open Source</strong>
-      <br><sub>Contributing to community</sub>
+      <br><sub>Contributing to the community</sub>
     </td>
   </tr>
 </table>
